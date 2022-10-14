@@ -1,5 +1,2 @@
 
-gitproject: gitproject is the project code used for this research
-
-
-supplements: The 10-fold cross-validation results for the final model and comparison models are included in supplements
+Results of ten-fold cross-validation with various numbers of dense blocks; the best outcomes were obtained with 4 dense blocks
