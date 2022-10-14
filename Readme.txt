@@ -1,3 +1,6 @@
+To facilitate the access to glutarylation site prediction data, DeepDN_iGlu has been implemented as an available web server ( https://bioinfo.wugenqiang.top/~smw/DeepDN_iGlu/ ).
+
+The directory structure of this repository is as follows：
 gitproject: gitproject is the project code used for this research
 ----subdir:dataset: benchmark data set
 ----subdir:feture_method: including feature encoding method and feature files that has been generated
